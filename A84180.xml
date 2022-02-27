@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and particular relation of the manner of the late besieging and taking of Chepstow Castle in Wales. By the forces of his Excellency the Lord Fairfax, under the command of Colonel Ewer; expressed in a letter from Colonel Ewer to the Honorable William Lental, Speaker to the House of Commons. The governour of the said castle within, that betrayed it to the Kings forces, was slain in this service, as also all the rest of the commanders and souldiers killed and taken.</title>
+            <author>Ewer, Isaac, d. 1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84180</idno>
+            <idno type="STC">Wing E3557</idno>
+            <idno type="STC">Thomason E445_6</idno>
+            <idno type="STC">ESTC R204771</idno>
+            <idno type="EEBO-CITATION">99864233</idno>
+            <idno type="PROQUEST">99864233</idno>
+            <idno type="VID">116458</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84180)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116458)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E445[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and particular relation of the manner of the late besieging and taking of Chepstow Castle in Wales. By the forces of his Excellency the Lord Fairfax, under the command of Colonel Ewer; expressed in a letter from Colonel Ewer to the Honorable William Lental, Speaker to the House of Commons. The governour of the said castle within, that betrayed it to the Kings forces, was slain in this service, as also all the rest of the commanders and souldiers killed and taken.</title>
+                  <author>Ewer, Isaac, d. 1650.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons, for Henry Overton in Popes-head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Isaac Ewer.</note>
+                  <note>Annotation on Thomason copy: "May 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chepstow Castle (Chepstow, Wales) --  Siege, 1648 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Wales --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116458:1" rendition="simple:additions"/>
+            <p>A full and particular RELATION OF The manner of the late beſieging and taking of <hi>Chepſtow Caſtle in Wales.</hi>
+            </p>
+            <p>By the Forces of his Excellency the LORD FAIRFAX, under the command of Colonel Ewer:</p>
+            <p>Expreſſed in a letter from Colonel EWER to the Honorable WILLIAM LENTAL, Speaker to the Houſe of COMMONS.</p>
+            <p>The Governour of the ſaid Caſtle within, that be<g ref="char:EOLhyphen"/>trayed it to the Kings Forces, was ſlain in this ſervice, as alſo all the reſt of the Commanders and Souldiers killed and taken.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Matthew Simmons,</hi> for <hi>Henry Overton</hi> in Popes-head-Alley. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116458:2"/>
+            <pb n="3" facs="tcp:116458:2"/>
+            <head>A Full and particular <hi>RELATION</hi> Of the manner of the late be<g ref="char:EOLhyphen"/>ſieging and taking of <hi>Chepſtow</hi> Ca<g ref="char:EOLhyphen"/>ſtle in <hi>WALES.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">L</seg>Ieuetenant-Generall <hi>Cromwell</hi> being to march towards Pembrook Caſtle, left me with my Regiment to take in the Caſtle of Chepſtow, which was poſſeſſed by Sir <hi>Nichlas Kemmeſh,</hi> and with him Officers
+<pb n="4" facs="tcp:116458:3"/>and Souldiers to the number of 120. We drew cloſe about it, and kept ſtrong guards upon them to prevent them from ſteeling out, and ſo to make an eſcape.</p>
+            <p>Wee ſent for two Guns from <hi>Glouceſter,</hi> and two off a Ship-board, and planted them againſt the Caſtle. Wee raiſed the Battlements of their Towers with our great Guns, and made their Guns unuſefull for them. Wee alſo plaid with our Morter<g ref="char:EOLhyphen"/>pieces into the Caſtle; One ſhot fell into the Governours Chamber, which cauſed him to remove his Lodging to the other end of the Caſtle. Wee then prepared our Batteries, and this morning finiſhed them, and plaid all the forenoone with our great Guns very hot. About twelve of the clocke wee made a hole through the wall ſo low, that a man might walke into it.</p>
+            <p>The Souldiers in the Caſtle perceiving that wee were like to make a breach, cry<g ref="char:EOLhyphen"/>ed out to our Souldiers that they would yeeld the Caſtle, and many of them did attempt to come away, I cauſed my Soul<g ref="char:EOLhyphen"/>diers,
+<pb n="5" facs="tcp:116458:3"/>to fire at them to keepe them in. <abbr>Eſq</abbr> 
+               <hi>Lewis</hi> comes upon the wall, and ſpeaks to ſome Gentlemen of the Countrey that hee knew, and tels them that hee was willing to yeeld to mercy. They came and acquain<g ref="char:EOLhyphen"/>ted me with his deſire, to which I anſwe<g ref="char:EOLhyphen"/>red, that it was not my work to treat with particular men: but it was Sir <hi>Nicholas Kemmeſh</hi> with his Officers and all his Soul<g ref="char:EOLhyphen"/>diers that I aimed at: but the Governour refuſed to deliver up the Caſtle upon thoſe termes that Eſquire <hi>Lewis</hi> deſired, but de<g ref="char:EOLhyphen"/>ſired to ſpeake with mee at the Draw bridg, which I altogether refuſed to have any ſuch ſpeech with him, becauſe he refuſed Lieu<g ref="char:EOLhyphen"/>tenant-Generall <hi>Cromwels</hi> Summons: but being over-perſwaded by ſome Gentlemen of the Countrey that were there; preſently I diſmounted from my horſe and went unto the Draw-bridge, where he through a port hole ſpake with mee; That which he deſi<g ref="char:EOLhyphen"/>red was, that hee with all his Officers and Souldiers might march out of the Caſtle without any thing taken from them, to which anſwered, that I would give him
+<pb n="6" facs="tcp:116458:4"/>no other termes, but that hee and all that were with him ſhould ſubmit unto mercy, which he ſwore he would not doe. I pre<g ref="char:EOLhyphen"/>ſently drew off my Sould<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers from the Ca<g ref="char:EOLhyphen"/>ſtle and cauſed them to ſtand to their Arms: But hee refuſing to come out upon thoſe termes, the Souldiers deſerted him, and came running out at the breach wee had made. My Souldiers ſeeing them come out, ranne in at the ſame place, poſſeſt them<g ref="char:EOLhyphen"/>ſelves of the Caſtle, and killed Sir <hi>Nicholas Kemmiſh,</hi> and likewiſe him that betrayed the Caſtle, and wounded divers, and tooke priſoners as followeth, Eſquire <hi>Lewis,</hi> Major <hi>Lewis,</hi> Major <hi>Thomas.</hi> Captaine <hi>Morgan,</hi> Captaine <hi>Buckeſwell,</hi> Captaine <hi>Iohn Harris,</hi> Captaine <hi>Chriſtopher Harris,</hi> Captaine <hi>Mancell,</hi> Captaine <hi>Pinner,</hi> Cap<g ref="char:EOLhyphen"/>taine <hi>Doule,</hi> Captaine <hi>Rosſiter.</hi> Lieute<g ref="char:EOLhyphen"/>nant <hi>Kemmeſh,</hi> Lieutenant <hi>Leach,</hi> Lieu<g ref="char:EOLhyphen"/>tenant <hi>Codd.</hi> Enſigne <hi>Lewis,</hi> Enſigne <hi>Watkins,</hi> Enſigne <hi>Morgan,</hi> with other Officers and Souldiers to the number of 120.</p>
+            <p>Theſe Priſoners wee have put into the
+<pb n="7" facs="tcp:116458:4"/>Church, and ſhall keepe them till I receive further order from. Lieutenant-Generall <hi>Cromwell.</hi> This is all at preſent, but that I am</p>
+            <closer>
+               <dateline>
+                  <hi>Chepſtow,</hi> 
+                  <date>May 25. 1648.</date>
+               </dateline>
+               <signed>Your humble Servant, <hi>Iſaac Ewer.</hi>
+               </signed>
+            </closer>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
